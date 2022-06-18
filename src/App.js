@@ -128,7 +128,6 @@ const App = () => {
             <Table countries={tableData} />
             <h3>Worldwide new {casesType}</h3>
             <LineGraph casesType={casesType} />
-              <h1>Main
           </div>
         </CardContent>
       </Card>
